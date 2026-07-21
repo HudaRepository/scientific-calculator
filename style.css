@@ -117,8 +117,6 @@ body{
 .btn-eq{
     background:#cc0000;
     color:white;
-    height:130px;
-    grid-row:span 2;
     font-size:28px;
 }
 
