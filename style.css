@@ -118,6 +118,8 @@ body{
     background:#cc0000;
     color:white;
     font-size:28px;
+    grid-column: 4/6;
+    grid-row: 7;
 }
 
 .btn-zero{
@@ -127,3 +129,9 @@ body{
 .btn:hover{
     opacity:0.85;
 }
+
+.btn-mod{
+    grid-column: 5;
+    grid-row: 6;
+}
+
